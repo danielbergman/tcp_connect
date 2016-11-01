@@ -3,7 +3,7 @@
  *  A simple utility for checking connections to generic TCP servers
  *
  *  Daniel Bergman 2004-04-27
- *  sweden, d-b@home.se
+ *  sweden, daniel.dabe.bergman@gmail.com
  *
  *  History
  *  -------
